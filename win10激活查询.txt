@@ -1,0 +1,8 @@
+cmd 命令提示符 
+运行：slmgr.vbs -dlv 命令可以查询到Windows的激活信息，包括：激活ID、安装ID、激活截止日期等；
+
+运行：slmgr.vbs -dli 命令可以查询到操作系统版本、部分产品密钥、许可证状态等；
+
+运行：slmgr.vbs -xpr 命令可以查询Windows是否永久激活；
+
+运行：Winver 命令可以查询系统内核版本，以及注册用户。
